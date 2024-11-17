@@ -34,7 +34,6 @@
     font-size: 24px;
     font-weight: bold;
 }
-
 .navbar ul {
     display: flex;
     gap: 20px;
@@ -42,7 +41,6 @@
     margin: 0;
     padding: 0;
 }
-
 .navbar a {
     text-decoration: none;
     color: #000;
@@ -50,12 +48,10 @@
     font-weight: 500;
     cursor: pointer;
 }
-
 .btn {
     display: flex;
     gap: 4px;
 }
-
 .login {
     width: 73px;
     height: 31px;
@@ -66,11 +62,9 @@
     align-items: center;
     cursor: pointer; 
 }
-
 .login:hover {
     background-color: rgb(211, 211, 211);
 }
-
 .Signup {
     width: 80px;
     height: 33px;
@@ -82,6 +76,7 @@
     align-items: center;
     cursor: pointer;
 }
+
 
 .mainpage {
     width: 1150px;
@@ -171,4 +166,5 @@
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px;
+    
 }
